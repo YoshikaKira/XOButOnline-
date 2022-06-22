@@ -1,0 +1,7 @@
+C:\Users\STUDENT\source\repos\HOHOServ\bin\Debug\HOHOServ.exe.config
+C:\Users\STUDENT\source\repos\HOHOServ\bin\Debug\HOHOServ.exe
+C:\Users\STUDENT\source\repos\HOHOServ\bin\Debug\HOHOServ.pdb
+C:\Users\STUDENT\source\repos\HOHOServ\obj\Debug\HOHOServ.csproj.AssemblyReference.cache
+C:\Users\STUDENT\source\repos\HOHOServ\obj\Debug\HOHOServ.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT\source\repos\HOHOServ\obj\Debug\HOHOServ.exe
+C:\Users\STUDENT\source\repos\HOHOServ\obj\Debug\HOHOServ.pdb
